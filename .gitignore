@@ -20,3 +20,6 @@ build/
 # These files vary from machine to machine
 .vscode/c_cpp_properties.json
 .vscode/settings.json
+generated_plugin_registrant.cc
+generated_plugin_registrant.h
+generated_plugins.cmake
